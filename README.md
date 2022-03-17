@@ -10,6 +10,10 @@ npm install // for installing packages
 npm run dev // for running the development part
 ```
 
+# Live url
+
+https://twitter-fun-project.vercel.app/
+
 ### Special note
 
 To run this app, you need to have a twitter api key. You can create a file call `.env.local` and put your key
